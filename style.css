@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 8px;
+    padding: 12px;
+    background-color: #124b1c;
+    text-align: left;
+    text-color: #fffbfb;
+}
+
+h1 {
+    color: #140352;
+    text-align: center;
+    border: #030303 solid 3px;
+    background-color: #20dd0f;
+}
+
+img {
+    border: #030303 solid 8px;
+    border-radius: 10%;
+    margin-top: 20px;
+    /div THATS ME!!!
+    \div {
+        text-align: object-position;
+    }
+
+}
