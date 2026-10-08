@@ -10,8 +10,8 @@ body {
 h1 {
     color: #140352;
     text-align: center;
-    border: #030303 solid 3px;
-    background-color: #20dd0f;
+    background-color: #20dd00;
+    background: rgba (23,15,21,19,64);
 }
 
 img {
