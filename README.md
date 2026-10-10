@@ -5,3 +5,4 @@ This is originally being built for Hack club StarDance but i will keep updating 
 I made it following the guide on the tardance website. I have currently used HTML and CSS for making the website as that was the easiest. I have the website deployed on 
 https://syed-muhammad-amad-hussain.vercel.app/
 Hope yall enjoy this absolute masterpiece! 
+this will be the most  bestest greatest bodacious best worst coolest darkest lightest

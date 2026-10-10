@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 8px;
     padding: 12px;
-    background-color: #124b1c;
+    background-color: #0f2212;
     text-align: left;
     color: #fffbfb;
 }
@@ -10,12 +10,12 @@ body {
 h1 {
     color: #140352;
     text-align: center;
-    background-color: #20dd00;
-    background: rgba (23,15,21,19,64);
+    background-color: #205217;
+    background: rgba (23,21,31,27,45,62,71,82,69,73,67);
 }
 
 img {
-    border: #030303 solid 8px;
+    border: #060541 solid 8px;
     border-radius: 10%;
     margin-top: 20px;
     /div THATS ME!!!
